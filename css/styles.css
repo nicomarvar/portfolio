@@ -1,7 +1,7 @@
 /* Global */
 @font-face{
     font-family: gentle;
-    src: url(/font/Gentle.otf);
+    src: url(../font/Gentle.otf);
 }
 html{
     --backColor:#F4F189;
