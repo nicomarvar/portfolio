@@ -533,7 +533,7 @@ main{
     height: 100%;
 }
 .rps{
-    background-image: url(/imgs/rockpaperscissors.png);
+    background-image: url(../imgs/rockpaperscissors.png);
     background-color: var(--fontColor);
     background-position: center;
     background-size:cover;
@@ -541,7 +541,7 @@ main{
     background-repeat: no-repeat;
 }
 .poem{
-    background-image: url(/imgs/poem.png);
+    background-image: url(../imgs/poem.png);
     background-color: var(--fontColor);
     background-position: center;
     background-size:cover;
